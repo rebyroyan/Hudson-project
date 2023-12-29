@@ -1,4 +1,3 @@
-
 package practiceproject1;
 
 public class typeCasting {
